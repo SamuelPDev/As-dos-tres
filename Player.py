@@ -1,0 +1,1 @@
+#Tiene atributos y acciones: Que resiva nombres y cartas 
